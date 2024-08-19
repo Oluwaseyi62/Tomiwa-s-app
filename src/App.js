@@ -27,7 +27,7 @@ function App() {
       </section>
       <section className="items-center px-12 py-5 mb-20">
         <h1 className="mb-3 text-3xl font-bold text-center">What we do</h1>
-        <div className="grid grid-cols-3 gap-7">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-7">
           <div className="px-4 border-2 rounded-md shadow-lg py-7 hover:animate-rotate-x shadow-black">
             <h1 className="text-lg font-semibold text-center">
               DIAGNOSTIC SERVICES
@@ -87,7 +87,7 @@ function App() {
           </div>
         </div>
       </section>
-      <footer className="grid grid-cols-1 px-12 py-12 text-white bg-black md:grid-cols-3">
+      <footer className="grid grid-cols-1 px-12 py-12 text-white bg-black gap-7 md:grid-cols-3">
         <div className="flex flex-col items-start justify-center px-6 mx-4 space-y-4 text-center">
           <h1>TundexFash Logo</h1>
           <h1 className="flex items-center justify-center text-center">
