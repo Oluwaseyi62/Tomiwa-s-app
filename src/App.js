@@ -137,7 +137,7 @@ function App() {
           <h1 className="mb-5 text-2xl font-extrabold text-center">
             Get Health Tips
           </h1>
-          <label>
+          <label className="flex items-center justify-center">
             <input
               placeholder="Enter Your Mail"
               className="px-8 py-3 rounded-lg outline-none bg-slate-500 invalid:border-red-600"
