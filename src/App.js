@@ -132,7 +132,7 @@ function App() {
           <div className="px-4 border-2 rounded-md shadow-lg py-7 hover:animate-jump ">
             <h1 className="text-xl font-semibold text-center text-[#365877]">Our Mission</h1>
             <p className="text-lg text-center">
-              Comprehensive diagnostic facilities, including laboratory services
+              To provide comprehensive diagnostic facilities, including laboratory services
               for blood tests, radiology services (ultrasound scan), ECG, and
               other imaging modalities.
             </p>
